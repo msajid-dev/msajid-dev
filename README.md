@@ -49,7 +49,7 @@ My recent work includes AI-powered platforms with OpenAI + Pinecone RAG pipeline
 
 ## Selected Projects
 
-All client code is private (NDA). Full architecture write-ups in the [portfolio repo](https://github.com/msajid-dev/portfolio).
+All client projects are private due to NDA agreements. Detailed architecture breakdowns and case studies are available in the [portfolio repo](https://github.com/msajid-dev/portfolio).
 
 | Project | Stack | Highlights |
 |---------|-------|-----------|
